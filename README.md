@@ -1,5 +1,5 @@
 
-<h2> Hola Soy Clara Bosch!</p>
+<h2> Hola Soy Clara Bosch</p>
 
 <p><em>Ingeniera Industrial - <a href="http://www.unb.br">Universidad Catolica Argentina</a></br>Analista de Datos - <a href="https://www.thoughtworks.com"> Henry</a>
 </em></p>
