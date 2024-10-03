@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**claribosch/claribosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hola Soy Clara Bosch!</p>
 
-Here are some ideas to get you started:
+<p><em>Ingeniera Industrial - <a href="http://www.unb.br">Universidad Catolica Argentina</a></br>Analista de Datos - <a href="https://www.thoughtworks.com"> Henry</a>
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 
+
+
+```javascript
+const Clara= {
+  Experiencia: ["Control de Gestión"]
+  Tecnologias: [Javascript, Phyton, SQLServer, PowerBI, Excel],
+  Habilidades: ["visión estratégica", "pragmatismo". "resilencia", "trabajo e equipo"]
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Objetivo : Encontrar mi primer puesto en Analisis de Datos aprovechando mi experiencia en Administración y Finanzas </b> <p>¡Esperando tener contacto contigo!</em>
+
+---
+
+claribosch80@gmail.com <p>
+www.linkedin.com/in/clara-bosch-5a72a131a
+
+
+
+
+
+
